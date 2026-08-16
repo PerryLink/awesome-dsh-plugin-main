@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-draw
+name: PerryLink/dsh-draw
+category: vision
+description:
+  en: 'Unified static-image generation router for DeepSeek Harness: one image_generate tool with standard parameters, config-driven OpenAI-compatible engine routing (OpenAI Images, Zhipu CogView, and any compatible endpoint) with health-aware fallback, durable workspace attachment results, per-session quota accounting, an in-conversation result card, and a Plugins settings panel that stores API keys as credential references.'
+  zh: 'DeepSeek Harness 统一静态图像生成路由：单一 image_generate 工具 + 标准参数，配置驱动的 OpenAI 兼容引擎路由（OpenAI Images、智谱 CogView 及任意兼容端点）与健康感知回退，工作区持久附件结果、按会话配额记账、对话内结果卡片，设置面板将 API key 存为凭据引用。'
