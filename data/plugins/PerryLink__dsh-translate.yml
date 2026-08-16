@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-translate
+name: PerryLink/dsh-translate
+category: tools
+description:
+  en: 'Vendor parameter translation and deterministic JSON repair for DeepSeek Harness — the /translate command maps 13 canonical parameters across 11 vendors, and the post-execute repair layer fixes broken JSON tool output without fabricating data.'
+  zh: 'DeepSeek Harness 厂商参数翻译与确定性 JSON 修复——/translate 命令映射 11 家厂商的 13 个规范参数，post-execute 修复层修复工具输出中的坏 JSON 且绝不编造数据。'
