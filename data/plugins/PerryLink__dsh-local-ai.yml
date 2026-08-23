@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-local-ai
+name: PerryLink/dsh-local-ai
+category: model
+description:
+  en: Local-model integration for DeepSeek Harness via Ollama that discovers, pulls, removes, and inspects local models, routes requests to them by task type or keyword with automatic fallback to the cloud, and provides a one-shot status overview with /ollama.
+  zh: DeepSeek Harness 的本地模型（Ollama）接入：发现、拉取、删除和查看本地模型，按任务类型或关键词将请求路由到本地模型并在失败时自动回退云端，通过 /ollama 提供一次性状态总览。
