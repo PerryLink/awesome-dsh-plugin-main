@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-mask
+name: PerryLink/dsh-mask
+category: security
+description:
+  en: 'PII masking middleware: anonymizes names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restores them at the display layer, and never logs plaintext; /mask command plus mask_test tool.'
+  zh: PII 脱敏中间件：在模型边界前把姓名、电话、邮箱、身份证、银行卡、密钥、地址替换为占位符，展示层还原，明文绝不入会话日志；/mask 命令 + mask_test 工具。
