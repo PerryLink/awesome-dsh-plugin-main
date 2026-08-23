@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-industry-research
+name: PerryLink/dsh-industry-research
+category: tools
+description:
+  en: 'Industry and company research domain pack: industry_map industry-chain maps, industry_track public-source policy/news tracking over ctx.web, company_scan cards, and auditable industry_report with an optional researchReport sealing bridge and builtin Markdown fallback, plus two methodology skills.'
+  zh: 行业与公司研究领域包：industry_map 产业链建图、industry_track 公开源政策/新闻追踪（走官方 ctx.web）、company_scan 公司扫描卡、industry_report 可审计研究报告（可选 researchReport 密封桥 + 内置 Markdown 兜底），附两个研究方法论技能。
