@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-data-quality
+name: PerryLink/dsh-data-quality
+category: tools
+description:
+  en: 'Deterministic data profiling, cleaning, and verification for DeepSeek Harness: data_profile, data_clean, and data_verify tools plus a frozen cross-plugin verifyCitations contract.'
+  zh: '为 DeepSeek Harness 提供确定性的数据画像、清洗与校验：data_profile、data_clean、data_verify 工具，外加冻结的跨插件 verifyCitations 引用核验契约。'
