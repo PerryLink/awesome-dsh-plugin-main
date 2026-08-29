@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-budget
+name: PerryLink/dsh-budget
+category: usage
+description:
+  en: Token cost tracking and budget alerts for DeepSeek Harness, with latency benchmarks and a carbon-footprint estimate.
+  zh: DeepSeek Harness 的 token 成本追踪与预算告警：附延迟基准与碳足迹估算。
