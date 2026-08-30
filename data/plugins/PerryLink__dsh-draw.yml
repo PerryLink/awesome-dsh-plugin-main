@@ -1,0 +1,6 @@
+﻿url: https://github.com/PerryLink/dsh-draw
+name: PerryLink/dsh-draw
+category: vision
+description:
+  en: Text-to-image routing for DeepSeek Harness — unified image generation through CogView, OpenAI Images, and Zhipu providers.
+  zh: DeepSeek Harness 的文生图路由：经 CogView、OpenAI Images 与智谱统一生成图像。
