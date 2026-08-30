@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-fast
+name: PerryLink/dsh-fast
+category: dev
+description:
+  en: 'Read-only performance diagnostics for DeepSeek Harness: reports session load and restore timing, context-injection volume, and LLM cache hit rate, off the model hot path.'
+  zh: 'DeepSeek Harness 的只读性能诊断：报告会话加载/恢复耗时、上下文注入量与 LLM 缓存命中率，不占模型热路径。'
